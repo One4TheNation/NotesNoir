@@ -1,6 +1,7 @@
 ## Challenge 11 : Note Noir
 
-![Project Preview]()
+![Project Deployed](./public/Assets/Screen%20Shot%202024-07-16%20at%208.19.37%20PM.png)
+*[Project Deployed Link](https://one4thenation.github.io/NotesNoir/Links)
 
 ## Table of Contents
 * [License](#license)
